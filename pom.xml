@@ -8,7 +8,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>userms</name>
+	<name>userms-Microservice</name>
 	<description>Infymarket userms Microservice</description>
 
 	<parent>
