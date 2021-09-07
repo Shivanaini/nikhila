@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>userms</name>
-	<description>InfyTel userms Microservice</description>
+	<description>Infymarket userms Microservice</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
